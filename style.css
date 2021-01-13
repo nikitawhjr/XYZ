@@ -1,0 +1,213 @@
+
+h2{
+    color:red;
+    font-size: 0.45in;
+    
+    
+}
+
+.menu{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    
+    font-weight: 400;
+    justify-content:space-evenly;
+}
+
+.para{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    justify-content:space-between;
+    font-weight: 400;
+    font-size: 0.3in;
+}
+
+
+.paragraph{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    justify-content:space-between;
+    font-family:unset;
+    padding:15px;
+    font-weight: 400;
+    font-size:0.2in;
+   
+}
+
+
+.one{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size:0.2in;
+   
+}
+.x{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: left;
+    font-weight: 400;
+    font-size:0.2in;
+}
+
+.y{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: right;
+    font-weight: 400;
+    font-size:0.2in;
+}
+
+.a{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: right;
+    font-weight: 400;
+    font-size:0.2in;
+}
+.b{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: right;
+    font-weight: 400;
+    font-size:0.2in;
+}
+
+.c{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: right;
+    font-weight: 400;
+    font-size:0.2in;
+}
+
+.d{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: right;
+    font-weight: 400;
+    font-size:0.2in;
+}
+
+.e{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: right;
+    font-weight: 400;
+    font-size:0.2in;
+}
+
+.f{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: right;
+    font-weight: 400;
+    font-size:0.2in;
+}
+
+.g{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: right;
+    font-weight: 400;
+    font-size:0.2in;
+}
+
+.h{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: right;
+    font-weight: 400;
+    font-size:0.2in;
+}
+.two{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size:0.2in;
+   
+}
+
+
+.three{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size:0.2in;
+   
+}
+
+
+.four{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size:0.2in;
+   
+}
+
+
+.five{
+    background-color: yellow;
+    border: solid;
+    font-family:unset;
+    padding:15px;
+    display:flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size:0.2in;
+   
+}
